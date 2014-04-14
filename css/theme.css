@@ -1,0 +1,48 @@
+body {
+	margin:0 !important;
+	padding:0 !important;
+	font-size:9pt !important;
+}
+.layout > .header, .layout > .content, .layout > .footer, .content-top {
+	margin: 0 auto;
+	max-width: 970px;
+}
+.layout > .header {
+	height: 4em;
+	background-color: #dfdfdf;
+}
+
+.layout .header .menu {
+	padding: 1em;
+}
+
+
+.layout > .content {
+	position:relative;
+}
+.layout > .content > .sidebar {
+	position: relative;
+	z-index: 10;
+	width: 210px;
+	min-height: 400px;
+	background-color: #99aabb;
+}
+
+
+.layout > .content > .data {
+	position:absolute;
+	z-index: 9;
+	top:0;
+	width:100%;
+}
+.layout > .content .data > .inner {
+	margin-left: 220px;
+	min-height: 400px;
+	background-color: #bbaa99;
+}
+
+
+.layout > .footer {
+	height: 4em;
+	background-color: #cddddd;
+}
