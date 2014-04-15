@@ -2,8 +2,8 @@
 <config>
 	<type>pc</type>
 	<name>
-		<en>Sample Theme</en>
-		<ko>샘플 테마</ko>
+		<en>Sample Mall Theme</en>
+		<ko>샘플 쇼핑몰 테마</ko>
 	</name>
 	<version>0.1</version>
 	<demo></demo>
