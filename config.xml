@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <config>
-	<type>pc</type>
+	<id>theme-mall-default</id>
+	<type>theme</type>
+	<view>pc</view>
 	<name>
 		<en>Sample Mall Theme</en>
 		<ko>샘플 쇼핑몰 테마</ko>
