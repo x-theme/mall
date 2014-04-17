@@ -3,11 +3,14 @@
 	<id>theme-mall-default</id>
 	<type>theme</type>
 	<view>pc</view>
+	<category>mall</category>
 	<name>
 		<en>Sample Mall Theme</en>
 		<ko>샘플 쇼핑몰 테마</ko>
 	</name>
 	<version>0.1</version>
+	<author>JaeHo Song</author>
+	<email>thruthesky@gmail.com</email>
 	<demo></demo>
 	<short>
 		<en>This is a sample theme. Copy this theme to make another.</en>
